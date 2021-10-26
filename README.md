@@ -1,5 +1,5 @@
 # hlo-world2
-yes
+y
 yes
 no no
 no ?
